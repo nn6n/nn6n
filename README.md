@@ -2,7 +2,7 @@
 
 ## <img width="45" alt="about" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif"> ৻2৲ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br>
 <img src="https://c.top4top.io/p_227766aic1.gif" />
- <img alt="GitHub followers" src="https://img.shields.io/github/followers/nn6n?style=social" /> <a href="https://twitter.com/i2onl"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/i2onl?style=social"></a>
+
 
 
 
