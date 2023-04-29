@@ -69,7 +69,7 @@ int main() {
       src="https://github-profile-trophy.vercel.app/?username=nn6n&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
 
          
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/901163035752808530?theme=dark&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/901163035752808530)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/406538704275111936?theme=dark&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/406538704275111936)
 
     
   </a>
